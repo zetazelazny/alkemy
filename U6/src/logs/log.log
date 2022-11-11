@@ -1,0 +1,9 @@
+2022-10-25 19:31:15,244 - mainLogger - INFO - Llamando a funcion words_size()
+2022-10-25 19:31:15,244 - mainLogger - INFO - Valores de lista: ['perro', 'elefante', 'dragón']
+2022-10-25 19:31:15,245 - mainLogger - INFO - Palabra: perro
+2022-10-25 19:31:15,246 - mainLogger - INFO - Longitud: 5
+2022-10-25 19:31:15,246 - mainLogger - INFO - Palabra: elefante
+2022-10-25 19:31:15,246 - mainLogger - INFO - Longitud: 8
+2022-10-25 19:31:15,247 - mainLogger - INFO - Palabra: dragón
+2022-10-25 19:31:15,247 - mainLogger - INFO - Longitud: 6
+2022-10-25 19:31:15,248 - mainLogger - INFO - Valores recibidos: [5, 8, 6]
