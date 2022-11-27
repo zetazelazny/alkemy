@@ -1,5 +1,5 @@
 def sumar(num1: int | float,
-        num2: int | float) -> int | float | None:
+          num2: int | float) -> int | float | None:
     try:
         result = num1 + num2
     except ValueError:
@@ -8,7 +8,7 @@ def sumar(num1: int | float,
 
 
 def restar(num1: int | float,
-        num2: int | float) -> int | float | None:
+           num2: int | float) -> int | float | None:
     try:
         result = num1 - num2
     except ValueError:

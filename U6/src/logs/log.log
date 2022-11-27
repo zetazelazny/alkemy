@@ -7,3 +7,21 @@
 2022-10-25 19:31:15,247 - mainLogger - INFO - Palabra: dragón
 2022-10-25 19:31:15,247 - mainLogger - INFO - Longitud: 6
 2022-10-25 19:31:15,248 - mainLogger - INFO - Valores recibidos: [5, 8, 6]
+2022-11-27 15:38:44,837 - mainLogger - INFO - Llamando a funcion words_size()
+2022-11-27 15:38:44,837 - mainLogger - INFO - Valores de lista: ['perro', 'elefante', 'dragón']
+2022-11-27 15:38:44,839 - mainLogger - INFO - Palabra: perro
+2022-11-27 15:38:44,840 - mainLogger - INFO - Longitud: 5
+2022-11-27 15:38:44,840 - mainLogger - INFO - Palabra: elefante
+2022-11-27 15:38:44,840 - mainLogger - INFO - Longitud: 8
+2022-11-27 15:38:44,840 - mainLogger - INFO - Palabra: dragón
+2022-11-27 15:38:44,840 - mainLogger - INFO - Longitud: 6
+2022-11-27 15:38:44,840 - mainLogger - INFO - Valores recibidos: [5, 8, 6]
+2022-11-27 15:44:53,652 - mainLogger - INFO - Llamando a funcion words_size()
+2022-11-27 15:44:53,653 - mainLogger - INFO - Valores de lista: ['perro', 'elefante', 'dragón']
+2022-11-27 15:44:53,653 - mainLogger - INFO - Palabra: perro
+2022-11-27 15:44:53,653 - mainLogger - INFO - Longitud: 5
+2022-11-27 15:44:53,653 - mainLogger - INFO - Palabra: elefante
+2022-11-27 15:44:53,654 - mainLogger - INFO - Longitud: 8
+2022-11-27 15:44:53,654 - mainLogger - INFO - Palabra: dragón
+2022-11-27 15:44:53,654 - mainLogger - INFO - Longitud: 6
+2022-11-27 15:44:53,654 - mainLogger - INFO - Valores recibidos: [5, 8, 6]
